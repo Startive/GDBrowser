@@ -1,8 +1,11 @@
-# GDBrowser
+# Why?
 
-Uh... so I've never actually used GitHub before this. But I'll try to explain everything going on here.
+I couldn't get the GDBrowser to work with recent versions of Node and NPM so I decided to fork another persons one and use that instead.
 
-Sorry for my messy code. It's why I was skeptical about making this open source, but you know what, the code runs fine in the end.
+## Setting up
+
+npm i then node index then boom
+
 
 ## Using this for a GDPS?
 I mean, sure. Why not.
