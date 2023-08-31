@@ -4,7 +4,12 @@ I couldn't get the GDBrowser to work with recent versions of Node and NPM so I d
 
 ## Setting up
 
-Run `a`
+cd into the folder with index.js then run `npm i`.
+After run `npm audit fix --force` and lastly `node index` to start the server.
+
+## Notes
+
+If GDBrowser crashes while trying to find a level like in the recent or search tab, then that means the servers are down.
 
 
 ## Using this for a GDPS?
