@@ -1,6 +1,6 @@
 # Why?
 
-I couldn't get GDBrowser to work with Node and NPM because fuck knows, I am not raelly smart. So I decided to fork another persons code and for some reason it works.
+I couldn't get GDBrowser to work with Node and NPM because fuck knows, I am not really smart. So I decided to fork another persons code and for some reason it works.
 
 ## Setting up
 
