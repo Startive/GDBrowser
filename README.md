@@ -4,7 +4,7 @@ I couldn't get the GDBrowser to work with recent versions of Node and NPM so I d
 
 ## Setting up
 
-npm i then node index then boom
+Run `a`
 
 
 ## Using this for a GDPS?
