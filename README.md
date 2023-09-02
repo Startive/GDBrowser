@@ -1,3 +1,6 @@
+## This is an old version of GDBrowser, please use the latest one either from gd cologne himself or me with some extra documentation.
+
+
 # Why?
 
 I couldn't get GDBrowser to work with Node and NPM because fuck knows, I am not really smart. So I decided to fork another persons code and for some reason it works.
